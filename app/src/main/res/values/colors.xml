@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C0006A</color>
+    <color name="colorPrimaryDark">#C00050 </color>
+    <color name="colorAccent">#C00050</color>
+
+
+    <color name="blue">#2E86AB</color>
+    <color name="vanilla">#F6F5AE</color>
+    <color name="yellow">#F5F749</color>
+    <color name="vermilion">#C00050</color>
+    <color name="gray">#565554</color>
+</resources>

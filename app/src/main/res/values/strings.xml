@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mars Play</string>
+
+    <string name="no_image_uploaded_yet">No Image. Please Upload...</string>
+    <string name="format_crop_result_d_d">Crop Result (%1$dx%2$d)</string>
+    <string name="permission_needed">Permission Needed</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="upload">Upload</string>
+    <string name="sync">Sync</string>
+
+
+    <!-- Toast Texts-->
+    <string name="toast_no_internet_connection">No Internet Connection!!</string>
+    <string name="toast_no_image_uploaded_yet">No Image Uploaded Yet</string>
+    <string name="toast_get_all_image_successful">Get All Image Successful</string>
+    <string name="toast_please_allow_permission">Please Allow Permissions for Image Upload</string>
+    <string name="toast_crop_image_not_retrieved">Unable to Retrieve Cropped Image</string>
+    <string name="toast_no_image_selected">No Image Selected for Cropping</string>
+    <string name="toast_no_cropping_performed">Image Not Cropped</string>
+    <string name="toast_unexpected_error">Unexpected Error</string>
+    <string name="toast_image_saved">Image Saved in Download Directory </string>
+    <string name="toast_no_upload_action">No Uploading Action Performed</string>
+    <string name="toast_image_upload_successful">Image Uploaded Successfully</string>
+    <string name="toast_image_upload_un_successful">Unable to Upload Image</string>
+
+
+    <!-- ProgressDialog Texts-->
+    <string name="progress_text_fetching_images">Fetching Images&#8230;</string>
+    <string name="progress_text_uploading">Uploading&#8230;</string>
+
+</resources>
